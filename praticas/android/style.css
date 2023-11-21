@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'idroid';
+    src: url(fontes/idroid.otf);
+}
+
+body{
+    background-color: rgb(128, 184, 44);
+    font-family: 'idroid';
+    text-indent: 30px;
+    text-align: justify;
+}
+
+header{
+    background-color: rgb(14, 75, 14);
+    text-align: center;
+    padding: 30px;
+    color: white;
+}
+
+main{
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+strong{
+    color: rgb(1, 80, 1);
+}
+
+#titulo-principal{
+    color: rgb(1, 80, 1);
+}
+
+.subtitulo{
+    color: rgb(1, 80, 1);
+    background-color: rgba(102, 177, 102, 0.329);
+}
+
+.imagens{
+    text-align: center;
+    margin: 30px 30px;
+}
+
+#video{
+    text-align: center;
+    background-color: rgb(1, 80, 1);
+    padding: 2%;
+}
+
+#extra{
+    background-color: rgba(89, 156, 87, 0.411);
+    text-align: center;
+}
+
+footer{
+    padding: 5px;
+    text-align: center;
+    background-color: rgb(1, 80, 1);
+}
